@@ -11,7 +11,7 @@ disk. This is also what allows Brokkenpiloot to turn
 the patch on and off without relaunching the target
 binary.
 
-# History
+## History
 
 Brokkenpiloot was written in 2019 as a proof-of-concept
 tool that disabled presence checking in Fly UK's
