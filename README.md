@@ -33,8 +33,8 @@ frequencies programmed in the radios. Because Brokkenpiloot
 reversed Skytrack's checking logic, this also meant the
 correct frequency would be rejected by Skytrack if both
 radios accidentally happen to be tuned to it. The
-statistical chance of this happening is small: around 1.2%
-for an 18-hour flight and 0.6% for a 9-hour flight. This
+statistical chance of this happening was small: around 1.2%
+for an 18-hour flight and 0.6% for a 9-hour flight. The
 risk could be eliminated entirely by making sure the
 communication radios were not tuned to the same frequency.
 
