@@ -11,6 +11,8 @@ disk. This is also what allows Brokkenpiloot to turn
 the patch on and off without relaunching the target
 binary.
 
+This is a very naive approach to hotpatching and may well, I think, result in race conditions with multi-threaded processes? Either way, consider this a just-for-fun project.
+
 ## History
 
 Brokkenpiloot was written in 2019 as a proof-of-concept
