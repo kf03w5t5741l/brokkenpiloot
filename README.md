@@ -2,8 +2,7 @@
 
 Brokkenpiloot is a tool that can replace bytes in the
 virtual memory (including the code segment) of a
-running Windows process with the intention of modifying
-its behaviour.
+running Windows process to modify its behaviour.
 
 Brokkenpiloot modifies the target process in-memory.
 This means it does not harm the target binary on the
