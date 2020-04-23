@@ -10,7 +10,7 @@ disk. This is also what allows Brokkenpiloot to turn
 the patch on and off without relaunching the target
 binary.
 
-This is a very naive approach to hotpatching and may well, I think, result in race conditions? Either way, consider this a just-for-fun project.
+The approach to hotpatching implemented here is very naive, and may well, I think, result in race conditions? Either way, consider this a just-for-fun project.
 
 ## History
 
