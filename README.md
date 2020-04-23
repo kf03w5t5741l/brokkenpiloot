@@ -41,7 +41,7 @@ communication radios were not tuned to the same frequency.
 
 Brokkenpiloot was written as an exercise in learning how to
 reverse engineer Windows applications with IDA Free. As the
-name "Brokkenpiloot" implies, using it in the real (virtual)
-world would be questionable. The `TARGET_BYTES` and
-`REPLACEMENT_BYTES` in the code have been changed to prevent
-such use.
+name "Brokkenpiloot" implies, actually using the patch to
+circumvent reasonable restrictions would not be fair, so the
+`TARGET_BYTES` and `REPLACEMENT_BYTES` in the code have been
+randomised to prevent improper use.
